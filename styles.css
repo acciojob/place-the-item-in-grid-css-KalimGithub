@@ -3,5 +3,8 @@
 
 .holder{
 	display:grid;
-	grid-template-columns: repeat(2, 1fr);
+	grid-template-columns: 100px 100px;
+}
+.item{
+	width:200px;
 }
